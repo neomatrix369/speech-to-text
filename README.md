@@ -8,6 +8,8 @@ Speech-to-text resources for the below categories / platforms:
 - web
 - windows
 
+Thanks to @Dmitry, @Halima, @Spike, @Catalina, @Conrad and @Denise for attending and contributing to the session at the [LSCC Open Space](http://www.meetup.com/london-software-craftsmanship/events/228800924/).
+
 ### Videos
 
 - [Speech to text videos](https://www.youtube.com/results?search_query=speech+to+text&nohtml5=False)
